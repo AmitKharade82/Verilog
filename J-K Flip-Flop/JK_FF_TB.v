@@ -23,7 +23,7 @@ initial begin
     J= 1'b1; K= 1'b0;
     #100; J= 1'b0; K= 1'b1; 
     #100; J= 1'b0; K= 1'b0; 
-    #100; J= 1'b1; K=1; 
+    #100; J= 1'b1; K= 1'b1; 
 end 
 
 endmodule 
